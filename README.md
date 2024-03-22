@@ -1,23 +1,7 @@
-# Anthropologies Clone
-RCT101 construct week project
+
 <h1>Dil Foods Assignment</h1>
 <p >Anthropologie is an American clothing retailer with approximately 200 stores across the U.S., UK , Germany ,Italy, France and Canada which offer an assortment of clothing, jewellery, home furniture, decoration, beauty, and gifts. </p>
 
-<h3>Home Page </h3>
-
-![Screenshot (253)](https://user-images.githubusercontent.com/98827173/180634041-1df91935-b36b-43ad-af8f-a37e3401879b.png)
-
-<h3>Footer Page </h3>
-
-![Screenshot (254)](https://user-images.githubusercontent.com/98827173/180634052-ccab5482-1475-40bf-9de6-60082953fa2d.png)
-
-<h3>CheckOut Page </h3>
-
-![Screenshot (255)](https://user-images.githubusercontent.com/98827173/180634070-d259177c-b8a4-431a-ba49-797bc54526fe.png)
-
-<h3>Shipping Adderess Page </h3>
-
-![Screenshot (256)](https://user-images.githubusercontent.com/98827173/180634080-4431b556-15f4-4d02-9e47-2882267b4e6d.png)
 
 
 # Getting Started 
@@ -40,7 +24,7 @@ RCT101 construct week project
 This project was made with :
 <ul>
   <li>React.js</li>
-  <li>Bootstrap</li>
+  <li>chart.js</li>
   <li>Chakra UI</li>
   <li>Redux</li>
 </ul>
