@@ -10,7 +10,7 @@ const LinkItems = [
   { name: "PieChart", icon: FaChartPie },
   { name: "BarChart", icon: FaChartBar },
   { name: "LineChart", icon: FaChartLine },
-  {name : "login" ,icon: FaSignInAlt }
+  {name : "Login" ,icon: FaSignInAlt }
 ];
 
 const SideBarContent = ({ onClose, ...rest }) => {
