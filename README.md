@@ -1,6 +1,6 @@
 
 <h1>Dil Foods Assignment</h1>
-<p >Anthropologie is an American clothing retailer with approximately 200 stores across the U.S., UK , Germany ,Italy, France and Canada which offer an assortment of clothing, jewellery, home furniture, decoration, beauty, and gifts. </p>
+
 
 
 
